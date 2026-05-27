@@ -1,11 +1,5 @@
 [![](./banner.svg)](https://github.com/kelyonn)
-<p align="right">
-<sub>
-<a href="https://github.com/kelyonn/gbh-suite">gbh-suite</a> ·
-<a href="https://github.com/kelyonn/vector">vector</a> ·
-<a href="https://github.com/kelyonn/nexus">nexus</a> ·
-<a href="https://github.com/kelyonn/flux">flux</a> ·
-<a href="https://github.com/kelyonn/echo">echo</a> ·
-<a href="https://github.com/kelyonn/vertex">vertex</a>
-</sub>
-</p>
+<table width="100%"><tr>
+<td align="left"><sub><a href="https://www.linkedin.com/in/sri-kalyan-ippili-6b40b5260/">linkedin</a> · <a href="https://www.instagram.com/kalyan.1729/">instagram</a></sub></td>
+<td align="right"><sub><a href="https://github.com/kelyonn/gbh-suite">gbh-suite</a> · <a href="https://github.com/kelyonn/vector">vector</a> · <a href="https://github.com/kelyonn/nexus">nexus</a> · <a href="https://github.com/kelyonn/flux">flux</a> · <a href="https://github.com/kelyonn/echo">echo</a> · <a href="https://github.com/kelyonn/vertex">vertex</a></sub></td>
+</tr></table>
