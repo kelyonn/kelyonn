@@ -25,6 +25,7 @@ b.tech computer science, **pes university** &nbsp; `2023 — 2027`
 ###### / SELECTED WORK
 
 | | |
+|---|---|
 | **[gbh-suite](https://github.com/kelyonn/gbh-suite)**<br/><sub>modular automation suite for macOS dev environments</sub> | **[vector](https://github.com/kelyonn/vector)**<br/><sub>gamified life OS with protocols, goals, streaks</sub> |
 | **[nexus](https://github.com/kelyonn/nexus)**<br/><sub>self-healing kubernetes platform with gitops + chaos eng</sub> | **[flux](https://github.com/kelyonn/flux)**<br/><sub>cross-platform file conversion CLI in go</sub> |
 | **[echo](https://github.com/kelyonn/echo)**<br/><sub>serverless real-time browser chat over MQTT</sub> | **[vertex](https://github.com/kelyonn/vertex)**<br/><sub>gesture + voice controlled 3D hologram workbench</sub> |
