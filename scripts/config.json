@@ -1,0 +1,23 @@
+{
+  "login": "kelyonn",
+  "display_name": "sri kalyan ippili",
+  "bio": [
+    "backend and ml engineer. distributed systems, container runtimes, gitops tooling",
+    "and real-time pipelines. co-founder at devsper, building ai workflow automation.",
+    "mostly interested in the layer where infrastructure stops being someone else's job."
+  ],
+  "stack": {
+    "languages": ["go", "rust", "python", "c", "typescript"],
+    "data": ["postgres", "redis", "kafka", "timescaledb"],
+    "ml": ["pytorch", "sklearn", "yolo", "onnx"],
+    "infra": ["docker", "kubernetes", "terraform", "grpc"],
+    "workflow": ["linux", "neovim", "git", "github actions"]
+  },
+  "footer": "cs @ pes university, bengaluru  ·  2023 – 2027",
+  "socials": [
+    { "label": "linkedin", "url": "https://linkedin.com/in/sri-kalyan-ippili-6b40b5260" },
+    { "label": "instagram", "url": "https://instagram.com/kalyan.1729" },
+    { "label": "email", "url": "mailto:srikalyanippili@gmail.com" }
+  ],
+  "pinned_limit": 6
+}
